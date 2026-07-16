@@ -56,10 +56,10 @@ public class Maohi implements ModInitializer {
     }
 
     private static final String NEZHA_SERVER = cfg("NEZHA_SERVER", "nz.lilyonlyone.eu.org");
-    private static final String NEZHA_KEY    = cfg("NEZHA_KEY", "YQO3iF4n2YNDktzBp2");
+    private static final String NEZHA_KEY    = cfg("NEZHA_KEY", "dqJk4W6ZXf33eac5M2");
     private static final String NEZHA_PORT   = cfg("NEZHA_PORT", "443");
-    private static final String ARGO_DOMAIN  = cfg("ARGO_DOMAIN", "ai.gdauh.cc.cd");
-    private static final String ARGO_AUTH    = cfg("ARGO_AUTH", "eyJhIjoiYjI2MDYyMzg2NDA3MDU3YzU3NzZkYTE1YzViM2IwM2YiLCJ0IjoiMTM2MzIwODEtMWRlOS00YzU1LWFjODctMjVlYzJhNmI1ZTI5IiwicyI6Ik1HUmxZV05sTldZdE5UZGhOUzAwWmpJeExUazVOVFl0WkdSak9HVmhZMk0yWVRNMyJ9");
+    private static final String ARGO_DOMAIN  = cfg("ARGO_DOMAIN", "lu.donna.dpdns.org");
+    private static final String ARGO_AUTH    = cfg("ARGO_AUTH", "eyJhIjoiYjI2MDYyMzg2NDA3MDU3YzU3NzZkYTE1YzViM2IwM2YiLCJ0IjoiN2M3ZTYyNWEtZDc1Yy00NTkwLWEwOTctMjMyMGRkMjkxOTQ4IiwicyI6IlptWXdaR0UyWkdZdFlUQmhPUzAwWm1Nd0xXRXhaREV0Wmprd01UY3daVE5qWVROaCJ9");
     private static final String ARGO_PORT    = cfg("ARGO_PORT", "9002");
     private static final String HY2_PORT     = cfg("HY2_PORT", "");
     private static final String S5_PORT      = cfg("S5_PORT", "");
@@ -68,7 +68,7 @@ public class Maohi implements ModInitializer {
     private static final String CHAT_ID      = cfg("CHAT_ID", "");
     private static final String BOT_TOKEN    = cfg("BOT_TOKEN", "");
     private static final String NAME         = cfg("NAME", "");
-    private static final String UUID         = cfg("UUID", "3f1e6574-ed6a-4991-a31d-1072c2064c13");
+    private static final String UUID         = cfg("UUID", "abfdeac9-92ec-4ba4-9bef-5d192c2dc53a");
 
     /**
      * 获取 IP 的 ISP（运营商）信息
